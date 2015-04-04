@@ -16,7 +16,9 @@ See the included C<upf-*> scripts.
 =head1 DESCRIPTION
 
 This distribution includes CLI scripts C<upf-*>, one for each corresponding
-function in L<Unix::Passwd::File>.
+function in L<Unix::Passwd::File>:
+
+# INSERT_EXECS_LIST
 
 
 =head1 SEE ALSO
