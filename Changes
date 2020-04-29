@@ -1,3 +1,9 @@
+0.060   2020-04-29  Released-By: PERLANCAR; Urgency: low
+
+        - [build] Rebuild with updated Unix::Passwd::File to remove dependency
+          to the deprecated Perinci::Sub::ArgEntity::*.
+
+
 0.05    2016-01-18  Released-By: PERLANCAR
 
         - No functional changes.
